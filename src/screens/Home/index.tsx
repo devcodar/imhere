@@ -40,7 +40,7 @@ export function Home() {
       </Text>
 
       <Text style={styles.eventDate}>
-        Domingo, 10 de Março de 2024.
+        Quinta-feira, 24 de Outubro de 2024.
       </Text>
 
       <View style={styles.form}>
